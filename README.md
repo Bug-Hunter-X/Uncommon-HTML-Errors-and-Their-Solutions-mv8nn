@@ -1,0 +1,2 @@
+# Uncommon HTML Errors and Their Solutions
+This repository contains examples of uncommon HTML errors and their corresponding solutions.  The errors demonstrated include mismatched closing tags, incorrect attribute usage, and improper element nesting.  Understanding and avoiding these errors is crucial for creating clean, functional, and well-structured HTML documents.  Each error example is accompanied by a corrected version, illustrating the best practices for writing valid and semantically meaningful HTML.
